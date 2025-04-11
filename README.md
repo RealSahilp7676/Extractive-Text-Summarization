@@ -16,14 +16,6 @@ This project performs **Extractive Text Summarization** using Natural Language P
 
 ---
 
-## 📁 File Structure
-
-```bash
-.
-├── ML_Project.ipynb          # Colab implementation
-├── README.md                    # Project overview and documentation
-
-
 ## 🔐 Disclaimer
 
 - This project implements a **basic extractive text summarization** approach.  
@@ -31,3 +23,12 @@ This project performs **Extractive Text Summarization** using Natural Language P
 - It is intended for **educational and learning purposes only**, and not optimized for large-scale or production-level use.
 - Evaluation is done using **ROUGE metrics**, which measure similarity to the original document but do not always reflect human judgment of quality.
 - Performance may vary depending on the length and style of the input text.
+
+---
+
+## 📁 File Structure
+
+```bash
+.
+├── ML_Project.ipynb          # Colab implementation
+├── README.md                 # Project overview and documentation
